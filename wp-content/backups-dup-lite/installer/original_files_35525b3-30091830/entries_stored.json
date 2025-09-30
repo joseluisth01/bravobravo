@@ -1,18 +1,4 @@
 {
-    "userini": {
-        "baseName": "source_site_userini",
-        "source": ".user.ini",
-        "stored": "source_site_userini",
-        "mode": "copy",
-        "isRelative": true
-    },
-    "phpini": {
-        "baseName": "source_site_phpini",
-        "source": "php.ini",
-        "stored": "source_site_phpini",
-        "mode": "copy",
-        "isRelative": true
-    },
     "htaccess": {
         "baseName": "source_site_htaccess",
         "source": ".htaccess",
